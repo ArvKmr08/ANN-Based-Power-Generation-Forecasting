@@ -115,15 +115,25 @@ git clone https://github.com/yourusername/Smart-Power-Generation-Forecasting.git
 cd Smart-Power-Generation-Forecasting
 
 pip install -r requirements.txt
+
 Run the Project
+
 python power_prediction.py
+
 Future Improvements
+
 Hyperparameter tuning
+
 Dropout for regularization
+
 Early stopping
+
 Model deployment using Flask/FastAPI
+
 Interactive dashboard with Streamlit
+
 Compare ANN with XGBoost, Random Forest, and LSTM
+
 Author
 
 Arav Kumar
